@@ -14,13 +14,6 @@
 
 ---
 
-### 🛠️ Technical Skills
-- **Programming Languages:** Python, C++, C, JavaScript, SQL, HTML, CSS
-- **Machine Learning & AI:** TensorFlow, PyTorch, Langchain, RAG, Whisper ASR, Fine-Tuning, Quantization, Speech Processing, Computer Vision
-- **Tools & Cloud:** AWS, Docker, Kubernetes, FastAPI, PostgreSQL, Power BI, Visual Studio
-
----
-
 ### 💼 Work Experience
 * **Applied Research Engineer** @ HP Poly *(Feb 2025 - Present)*
   - Architecting real-time conversational AI voice agents (ASR + LLM).
