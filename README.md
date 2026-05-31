@@ -34,6 +34,6 @@
 
 ### 📚 Research & Publications
 * **Spice Wizard: A Unified AI Agent for Netlist Generation.** *TechRxiv. February 20, 2026.*
-* **SonoroNova-ES A Synthetic English-to-Spanish Speech-to-Speech Translation Dataset.** *Under review at EMNLP 2026. (Published on https://huggingface.co/datasets/SonoroNova-ES/SonoroNova-ES*
+
 
 ---
